@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Collection()
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Collection\r\n
+comment1.params=v
+comment1.target=void\ ajouter(Vehicule)
+comment1.text=\r\n\ Ajoute\ un\ vehicule\ \u00E0\ la\ liste\ s'il\ n'est\ pas\ nul\r\n
+comment2.params=year
+comment2.target=java.lang.String\ tri_vehicule(int)
+comment2.text=\r\n\ Renvoie\ une\ cha\u00EEne\ de\ caract\u00E8res\ contenant\ les\ immatriculations\ des\ vehicules\ fabriquer\ avant\ "year"\ \ \r\n
+numComments=3

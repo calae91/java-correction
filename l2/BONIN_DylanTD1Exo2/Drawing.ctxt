@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Drawing(java.lang.String)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Drawing\r\n
+comment1.params=
+comment1.target=java.lang.String\ displayNameCircles()
+comment1.text=\r\n\ Renvoie\ sous\ la\ forme\ d'une\ cha\u00EEnes\ de\ caract\u00E8res\ les\ noms\ de\ tous\ les\ cercles\ contenus\ dans\ le\ dessin\r\n
+comment2.params=cercle
+comment2.target=boolean\ addCircle(Circle)
+comment2.text=\r\n\ Ajoute\ un\ cercle\ et\ renvoie\ vrai\ s'il\ n'est\ pas\ nul\ sinon\ renvoie\ faux\r\n
+numComments=3

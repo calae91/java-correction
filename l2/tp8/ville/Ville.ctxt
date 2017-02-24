@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=longitude\ latitude\ nom
+comment0.target=Ville(double,\ double,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getLatitude()
+comment3.params=
+comment3.target=double\ getLongitude()
+comment4.params=
+comment4.target=java.lang.String\ getNom()
+comment5.params=v
+comment5.target=int\ compareTo(Ville)
+comment6.params=latitude\ longitude
+comment6.target=int\ compareTo(double,\ double)
+numComments=7

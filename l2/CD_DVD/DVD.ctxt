@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=titre\ realisateur\ sortie
+comment0.target=DVD(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ DVD\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\nsurchage\ de\ toString()\r\n
+numComments=2

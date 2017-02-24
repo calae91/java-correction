@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Collection()
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Collection\r\n
+comment1.params=motCle
+comment1.target=java.util.List\ rechercher(java.lang.String)
+comment1.text=\r\n\ Renvoie\ une\ liste\ de\ documents\ ayant\ dans\ son\ titre\ ou\ r\u00E9alisateur/artiste\ le\ mot\ cl\u00E9\ \r\n
+numComments=2

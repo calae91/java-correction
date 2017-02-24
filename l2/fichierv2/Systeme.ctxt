@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nom
+comment0.target=Systeme(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNom()
+comment2.params=
+comment2.target=int\ taille()
+numComments=3

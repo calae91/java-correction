@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=immatriculation\ modele\ proprietaire
+comment0.target=Vehicule(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=newOwner
+comment1.target=void\ update_owner(java.lang.String)
+comment1.text=\r\n\ Modifie\ le\ nom\ du\ proprietaire\ s'il\ n'est\ pas\ nul\r\n
+comment2.params=
+comment2.target=int\ get_year()
+comment2.text=\r\n\ m\u00E9thode\ abstraite\ pour\ avoir\ l'ann\u00E9e\ de\ fabrication\r\n
+comment3.params=
+comment3.target=java.lang.String\ get_immatriculation()
+comment3.text=\r\n\ retourne\ l'immatriculation\ du\ vehicule\r\n
+numComments=4

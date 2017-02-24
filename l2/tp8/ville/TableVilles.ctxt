@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=void\ ajouterVille(Ville)
+comment0.text=\r\n\ Ajoute\ une\ ville\ a\ l'ensemble.\ On\ supposera\ que\ la\ ville\ n'est\ pas\ presente\ \r\n
+comment1.params=latitude\ longitude
+comment1.target=Ville\ rechercherVille(double,\ double)
+comment1.text=\r\n\ Teste\ si\ une\ ville\ est\ presente\ avec\ les\ coordonnees\ passees\ en\ parametre.\ Si\ oui\ on\ retourne\ la\ ville,\ sinon\ on\ retourne\ null\r\n
+comment2.params=
+comment2.target=int\ nombreVilles()
+comment2.text=\r\n\ Renvoie\ le\ nombre\ de\ villes\ de\ l'ensemble\r\n
+comment3.params=
+comment3.target=java.lang.String\ infos()
+comment3.text=\r\n\ Donne\ des\ infos\ sur\ l'ensemble\ (taille\ par\ exemple)\r\n
+comment4.params=
+comment4.target=java.util.LinkedList\ traverser()
+comment4.text=\r\n\ Renvoie\ une\ liste\ contenant\ tous\ les\ elements\ de\ l'ensemble\r\n
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getTitre()
+comment0.text=\r\n\ retourne\ titre\r\n
+comment1.params=titre
+comment1.target=Document(java.lang.String)
+numComments=2

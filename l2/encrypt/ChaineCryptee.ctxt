@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=chaine\ decalage
+comment0.target=ChaineCryptee\ deCryptee(java.lang.String,\ int)
+comment1.params=chaine\ decalage
+comment1.target=ChaineCryptee\ deEnClair(java.lang.String,\ int)
+comment2.params=chaine\ decalage
+comment2.target=ChaineCryptee(java.lang.String,\ int)
+comment2.text=\n\ Constructeur\ cha\u00EEne,\ d\u00E9calage\n
+comment3.params=
+comment3.target=java.lang.String\ deCrypte()
+comment3.text=\n\ Retourne\ l'attribut\ chaine\n\n\ @return"chaine"\ en\ clair\n
+comment4.params=chaine\ decalage
+comment4.target=java.lang.String\ crypte(java.lang.String,\ int)
+comment4.text=\n\ Chiffre\ la\ chaine\ et\ la\ retourne\n
+numComments=5

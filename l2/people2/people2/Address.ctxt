@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=street\ town\ postCode
+comment0.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Construct\ an\ Address\ without\ country\r\n
+comment1.params=street\ town\ postCode\ country
+comment1.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construct\ an\ Address\ with\ full\ details\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ a\ string\ representation\ of\ this\ object.\r\n
+numComments=3

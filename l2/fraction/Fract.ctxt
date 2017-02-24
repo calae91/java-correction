@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getNumerateur()
+comment1.params=
+comment1.target=int\ getDenominateur()
+comment2.params=
+comment2.target=double\ toDoubleNum()
+comment3.params=
+comment3.target=double\ toDoubleDen()
+comment4.params=f1\ f2
+comment4.target=Fraction\ addition(Fraction,\ Fraction)
+comment5.params=x\ y
+comment5.target=int\ PGCD(int,\ int)
+comment6.params=f1\ f2
+comment6.target=boolean\ equals(Fraction,\ Fraction)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=f1\ f2
+comment8.target=int\ compareTo(Fraction,\ Fraction)
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=plaque\ modele\ nom_proprio\ nbre_porte
+comment0.target=voiture(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ voiture\r\n
+comment1.params=new_owner
+comment1.target=java.lang.String\ update_owner(java.lang.String)
+comment1.text=\r\n\ Un\ exemple\ de\ m\u00E9thode\ -\ remplacez\ ce\ commentaire\ par\ le\ v\u00F4tre\r\n\r\n\ @param\ \ y\ \ \ le\ param\u00E8tre\ de\ la\ m\u00E9thode\r\n\ @return\ \ \ \ \ la\ somme\ de\ x\ et\ de\ y\r\n
+comment2.params=
+comment2.target=java.lang.String\ get_year()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=immatriculation\ modele\ proprietaire
+comment0.target=Moto(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=int\ get_year()
+comment1.text=\r\n\ renvoie\ l'ann\u00E9e\ de\ fabrication\r\n
+numComments=2

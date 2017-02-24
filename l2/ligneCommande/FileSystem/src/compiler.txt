@@ -1,0 +1,1 @@
+javac -d Documents/cours/"java programmation"/ligneCommande/classes -sourcepath Documents/cours/"java programmation"/fileSystem/src/*.java -Xlint

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=collection()
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ collection\r\n
+comment1.params=vec
+comment1.target=void\ ajout_vehicule(vehicule)
+comment1.text=\r\n\ Un\ exemple\ de\ m\u00E9thode\ -\ remplacez\ ce\ commentaire\ par\ le\ v\u00F4tre\r\n\r\n\ @param\ \ y\ \ \ le\ param\u00E8tre\ de\ la\ m\u00E9thode\r\n\ @return\ \ \ \ \ la\ somme\ de\ x\ et\ de\ y\r\n
+comment2.params=annee
+comment2.target=void\ tri_vehicule(int)
+numComments=3

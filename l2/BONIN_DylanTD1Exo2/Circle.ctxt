@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=color\ name
+comment0.target=Circle(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Circle\r\n
+comment1.params=name
+comment1.target=Circle(java.lang.String)
+comment1.text=\r\n\ constructeur\ surcharger\ avec\ seulement\ le\ nom\ de\ renseign\u00E9\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Renvoie\ le\ nom\ du\ cercle\r\n
+numComments=3

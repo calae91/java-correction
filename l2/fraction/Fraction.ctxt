@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fraction()
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Fraction\r\n
+comment1.params=numerateur\ denominateur
+comment1.target=Fraction(int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=f1\ f2
+comment11.target=int\ compareTo(Fraction,\ Fraction)
+comment2.params=numerateur
+comment2.target=Fraction(int)
+comment3.params=
+comment3.target=int\ getNumerateur()
+comment4.params=
+comment4.target=int\ getDenominateur()
+comment5.params=
+comment5.target=double\ toDoubleDen()
+comment6.params=
+comment6.target=double\ toDoubleNum()
+comment7.params=a\ b
+comment7.target=int\ PGCD(int,\ int)
+comment8.params=f1\ f2
+comment8.target=Fraction\ addition(Fraction,\ Fraction)
+comment9.params=f1\ f2
+comment9.target=boolean\ equals(Fraction,\ Fraction)
+numComments=12

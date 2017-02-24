@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=titre\ artiste\ nbTitre
+comment0.target=CD(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructeur\ d'objets\ de\ classe\ CD\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ surchage\ de\ toString()\r\n
+numComments=2
