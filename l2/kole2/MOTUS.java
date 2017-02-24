@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * Décrivez votre classe Palindrome ici.
  *
- * @author (Quijal Romain)
+ * @author (calae91)
  * @version (2.0)
  */
 public class MOTUS
