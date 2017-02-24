@@ -3,8 +3,8 @@ import java.util.ArrayList;
 /**
  * Décrivez votre classe Bibliotheque ici.
  *
- * @author (votre nom)
- * @version (un numéro de version ou une date)
+ * @author (calae91)
+ * @version (1.0)
  */
 public class Bibliotheque
 {
