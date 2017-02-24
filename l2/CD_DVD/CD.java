@@ -2,8 +2,8 @@
 /**
  * Décrivez votre classe CD ici.
  *
- * @author (votre nom)
- * @version (un numéro de version ou une date)
+ * @author (calae91)
+ * @version (1.0)
  */
 public class CD extends Document
 {
