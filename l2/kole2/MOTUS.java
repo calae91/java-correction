@@ -7,8 +7,8 @@ import java.util.Scanner;
 /**
  * Décrivez votre classe Palindrome ici.
  *
- * @author (votre nom)
- * @version (un numéro de version ou une date)
+ * @author (Quijal Romain)
+ * @version (2.0)
  */
 public class MOTUS
 {
